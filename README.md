@@ -10,3 +10,4 @@ Example errors :
   - Narendra Modi Lost in 2019 Elections
   - No candidate won in the 2014 Elections
   
+Thank you
